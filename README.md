@@ -2,11 +2,11 @@
 
 基于 **Unity 2022.3 与 C#** 开发的 2D 横版动作游戏，包含平台跳跃、近战战斗、三类敌人、关卡传送和存档系统。
 
-[Windows 游戏下载](https://github.com/Houstonyang/yongzhe-qitan/releases) · [算法与技术说明](docs/TECHNICAL.md)
+[Windows 游戏下载](https://github.com/Houstonyang/Tales-of-the-Brave/releases) · [算法与技术说明](docs/TECHNICAL.md)
 
 ## 下载与运行
 
-1. 打开 [Releases](https://github.com/Houstonyang/yongzhe-qitan/releases)，下载附件 `yongzhe-qitan-Windows-v1.0.0.zip`。
+1. 打开 [Releases](https://github.com/Houstonyang/Tales-of-the-Brave/releases)，下载附件 `Tales-of-the-Brave-v1.0.0.zip`。
 2. 将压缩包**完整解压**到一个文件夹。
 3. 双击 `My project 2.exe` 启动游戏。
 
