@@ -1,0 +1,17 @@
+# Unity-generated folders (if the full project is added later)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+
+# Generated build output belongs in Releases
+[Bb]uild/
+[Bb]uilds/
+Release/
+*_BurstDebugInformation_DoNotShip/
+
+# Local signing credentials
+*.keystore
+*.jks
