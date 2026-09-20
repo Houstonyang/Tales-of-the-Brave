@@ -6,7 +6,7 @@
 
 ## 下载与运行
 
-1. 打开 [Releases](https://github.com/Houstonyang/yongzhe-qitan/releases)，下载附件 `勇者奇谭-Windows-v1.0.0.zip`。
+1. 打开 [Releases](https://github.com/Houstonyang/yongzhe-qitan/releases)，下载附件 `yongzhe-qitan-Windows-v1.0.0.zip`。
 2. 将压缩包**完整解压**到一个文件夹。
 3. 双击 `My project 2.exe` 启动游戏。
 
